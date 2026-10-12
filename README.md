@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/wordmark.png" alt="Dark4More" width="420"></p>
+
 # Dark4More
 
 Harici monitörlerin ve MacBook ekranının parlaklığını kontrol eden macOS menü çubuğu uygulaması.
