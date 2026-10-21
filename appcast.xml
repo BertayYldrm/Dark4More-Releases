@@ -5,6 +5,15 @@
     <link>https://github.com/BertayYldrm/Dark4More</link>
     <language>tr</language>
     <item>
+      <title>0.2.2</title>
+      <pubDate>Wed, 21 Oct 2026 00:58:59 GMT</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/BertayYldrm/Dark4More-Releases/releases/tag/v0.2.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/BertayYldrm/Dark4More-Releases/releases/download/v0.2.2/Dark4More-0.2.2.dmg" length="4108157" type="application/octet-stream" sparkle:edSignature="zvYEGvxerFk79RVJxkKxH50ySW9ejigoeKBR8K7bhCDh+b4masduoe8er3T7ZqUaUs5TZL6h9P/2GEc9kxQWCQ=="/>
+    </item>
+    <item>
       <title>0.2.1</title>
       <pubDate>Fri, 16 Oct 2026 17:22:08 GMT</pubDate>
       <sparkle:version>39</sparkle:version>
